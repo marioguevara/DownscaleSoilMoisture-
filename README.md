@@ -5,4 +5,7 @@ The latest version of the code supporting this publication: Downscaling satellit
 Guevara and Vargas, 2019 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0219639 can be found here:
 https://www.protocols.io/view/protocol-for-downscaling-satellite-soil-moisture-e-6cahase
 
+All available data and code used for this publication can be found here: https://www.hydroshare.org/resource/b8f6eae9d89241cf8b5904033460af61/
+
+
 

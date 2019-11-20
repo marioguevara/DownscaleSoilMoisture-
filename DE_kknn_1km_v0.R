@@ -46,6 +46,9 @@ ogcs <- makeOGC(raster(x), 6)
 x <- cbind(x, as(ogcs, 'SpatialPixelsDataFrame'))
 
 
+#####COVS 
+x <- readRDS('DE_covs_1km.rds')
+
 #function to use a median value for NAs, at the borders 
 #NA2median <- function(x) replace(x, is.na(x), median(x, na.rm = TRUE))
 #replace with median
@@ -202,7 +205,7 @@ print(results)
 ####
 ####
 
-####
+####END
 ####
 ####
 
